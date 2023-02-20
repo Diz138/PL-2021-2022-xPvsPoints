@@ -9,36 +9,40 @@ The data I propose to visualize for my project is from the 2021-2022 Premier Lea
 I’ve created a series of proof of concept visualizations of this data. I started with a couple iterations of sketches:
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 ![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/sketch_iteration1.png)
-Testing
+I started with the idea to focus on one team at a time as it would become too distracting with all 20 PL teams on one graph. From here I know I can compare both xP and Points using the same axis as they represent the same value. There is the option to change teams from a drop down and the final points and xP total will be displayed in a table on the graph. The biggest question a viewer of this visual would be to see if the team overperformed or underperformed and when. This will be determined when there is a big differnce in values of Points and xP. 
 ![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/sketch_iteration2.png)
-Testing
-![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/scatterplotWithAxes.png)
-Finally
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+On my second iteration I noticed that I was using the two channels (color and line type) to represent the same value, so I instead thought of the idea of using color to highlight the portions of the season in which there was a a big difference in xP and Points. 
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/scatterplotWithAxes.png)](https://vizhub.com/Diz138/3ec5b64a2ef94d32a922ecd4445d9089)
+This is my current implementation of my sketches. I just added the x and y axes and am hoping to change the scatterplot to a line/scatterplot in the coming days.
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Which Premier League teams overperformed or underperformed during the 2021-2022 season?
+ * During which periods did teams overperform or underperform?
+ * What patterns do different teams have in terms of performance?
+ * Does the final PL table represent the best teams according to xP?
 
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I also want to include an animation of each team and their table position over each Matchweek. This would be an entirely different plot, but using the same data. I do not know if I have time for this. In my schedule I am putting time to it, but I do not really have an estimate as to how hard creating my first viz will be so I am trying to be optimistic.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 7 - Modify line type and scrape more data for future interactions
+
+Week 8 - Add interactive dropdown button for each PL team
+
+Week 9 - Add table in graph for each PL team
+
+Week 11 - Modify background and margins to make visualiztion look pretty and finalize
+
+Week 12 - Team interaction for each dot to see who was the team's opponent that matchweek
+
+Week 12 - Axes, scatter/lineplot, color of 2nd viz
+
+Week 13 - Animation of 2nd viz
+
+Week 14 - Finalize visualizations
