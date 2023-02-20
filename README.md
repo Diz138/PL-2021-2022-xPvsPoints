@@ -2,13 +2,13 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is from the 2021-2022 Premier League Season. Each row in the dataset represents a instance of a certain matchweek for a team. The row contains the team, matchweek, points (accumulated up to that matchweek), expected points (accumulated up to that matchweek), and where in the PL table the team would be if it was based on the expected points. The data was scraped from understat.com. The focus of this project will be to compare a team's results to what their expected results to see if any teams were "lucky" or "unlucky".
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image]()]
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
