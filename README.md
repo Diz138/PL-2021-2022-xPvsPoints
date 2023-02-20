@@ -8,7 +8,7 @@ The data I propose to visualize for my project is from the 2021-2022 Premier Lea
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image]()]
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/scatterplotWithAxes.png)]
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
