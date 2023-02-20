@@ -37,9 +37,9 @@ Week 8 - Add interactive dropdown button for each PL team
 
 Week 9 - Add table in graph for each PL team
 
-Week 11 - Modify background and margins to make visualiztion look pretty and finalize
+Week 10 - Modify background and margins to make visualiztion look pretty and finalize
 
-Week 12 - Team interaction for each dot to see who was the team's opponent that matchweek
+Week 11 - Team interaction for each dot to see who was the team's opponent that matchweek
 
 Week 12 - Axes, scatter/lineplot, color of 2nd viz
 
