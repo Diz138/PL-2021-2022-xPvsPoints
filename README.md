@@ -12,7 +12,7 @@ I’ve created a series of proof of concept visualizations of this data. I start
 I started with the idea to focus on one team at a time as it would become too distracting with all 20 PL teams on one graph. From here I know I can compare both xP and Points using the same axis as they represent the same value. There is the option to change teams from a drop down and the final points and xP total will be displayed in a table on the graph. The biggest question a viewer of this visual would be to see if the team overperformed or underperformed and when. This will be determined when there is a big differnce in values of Points and xP. 
 ![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/sketch_iteration2.png)
 On my second iteration I noticed that I was using the two channels (color and line type) to represent the same value, so I instead thought of the idea of using color to highlight the portions of the season in which there was a a big difference in xP and Points. 
-[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/lineChartwithLogos.png)](https://vizhub.com/Diz138/3ec5b64a2ef94d32a922ecd4445d9089)
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)](https://vizhub.com/Diz138/3ec5b64a2ef94d32a922ecd4445d9089)
 This is my current implementation of my sketches. I just added the x and y axes and am hoping to change the scatterplot to a line/scatterplot in the coming days.
 
 ## Questions & Tasks
