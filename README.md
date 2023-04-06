@@ -13,7 +13,7 @@ I started with the idea to focus on one team at a time as it would become too di
 ![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/sketch_iteration2.png)
 On my second iteration I noticed that I was using the two channels (color and line type) to represent the same value, so I instead thought of the idea of using color to highlight the portions of the season in which there was a a big difference in xP and Points. 
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)](https://vizhub.com/Diz138/3ec5b64a2ef94d32a922ecd4445d9089)
-This is my current implementation of my sketches. I just added the x and y axes and am hoping to change the scatterplot to a line/scatterplot in the coming days.
+This is my current implementation of my sketches. I just added the logos at the top of the chart instead of the dropdown menu.
 
 ## Questions & Tasks
 
@@ -30,19 +30,10 @@ The following tasks and questions will drive the visualization and interaction d
 I also want to include an animation of each team and their table position over each Matchweek. This would be an entirely different plot, but using the same data. I do not know if I have time for this. In my schedule I am putting time to it, but I do not really have an estimate as to how hard creating my first viz will be so I am trying to be optimistic.
 
 ## Milestones
+Week 11 - Logo interaction as buttons to choose which team to visaulize
 
-Week 7 - Modify line type and scrape more data for future interactions
+Week 12 - Adding map visaulization in as the intro viz or add in hovering legend (depending on what feedback I receive)
 
-Week 8 - Add interactive dropdown button for each PL team
+Week 13 - Finalizing sizing, fonts, colors, and spacing.
 
-Week 9 - Add table in graph for each PL team
-
-Week 10 - Modify background and margins to make visualiztion look pretty and finalize
-
-Week 11 - Team interaction for each dot to see who was the team's opponent that matchweek
-
-Week 12 - Axes, scatter/lineplot, color of 2nd viz
-
-Week 13 - Animation of 2nd viz
-
-Week 14 - Finalize visualizations
+Week 14 - Finalize anything else necessary
