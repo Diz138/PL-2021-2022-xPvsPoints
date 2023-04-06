@@ -14,11 +14,11 @@ I started with the idea to focus on one team at a time as it would become too di
 On my second iteration I noticed that I was using the two channels (color and line type) to represent the same value, so I instead thought of the idea of using color to highlight the portions of the season in which there was a a big difference in xP and Points. 
 ## Design Process (Prototypes)
 After a couple iterations of my design, it was now time for me to start. I first just plotted one teams (Arsenal) data over the course of the season.
-[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)]
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/initialArsenalPlot.png)]
 Next
-[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)]
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/secondIteration.png)]
 Next
-[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)]
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/thirdIteration.png)]
 Next
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)]
 Finally
