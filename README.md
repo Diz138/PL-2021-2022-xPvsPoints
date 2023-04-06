@@ -20,7 +20,7 @@ Next
 Next
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/thirdIteration.png)]
 Next
-[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)]
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/fourthIteration.png)]
 Finally
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)](https://vizhub.com/Diz138/3ec5b64a2ef94d32a922ecd4445d9089)
 This is my current implementation of my sketches. I just added the logos at the top of the chart instead of the dropdown menu.
