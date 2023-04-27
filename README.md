@@ -4,7 +4,7 @@
 
 The data I propose to visualize for my project is from the 2021-2022 Premier League Season. Each row in the dataset represents a instance of a certain matchweek for a team. The row contains the team, matchweek, points (accumulated up to that matchweek), expected points (accumulated up to that matchweek), and where in the PL table the team would be if it was based on the expected points. The data was scraped from understat.com. The focus of this project will be to compare a team's results to what their expected results to see if any teams were "lucky" or "unlucky".
 
-## Design Process (Sketches)
+## Prototypes
 
 I’ve created a series of proof of concept visualizations of this data. I started with a couple iterations of sketches:
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
