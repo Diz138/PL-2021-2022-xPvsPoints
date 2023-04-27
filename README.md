@@ -22,21 +22,15 @@ After this I was able to add interaction to this and place the button above the 
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/fourthIteration.png)](https://vizhub.com/Diz138/3ed0f744eab74924b87b8b5615011309)
 The issue with this dropdown is that it causes sizing errors when clicked (more than 1 team is shown as an option) so I thought including the logos as buttons would be a cooler viz instead.
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)](https://vizhub.com/Diz138/db634275642f4c4d9498ac4f9780e5a8)
-This is my current implementation of my sketches.
+This was one of my last iterations before my final visualization. I liked the look, but it ws targeted only for viewers who understand the Premier League
 ## Final Visualization
-
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)]((https://vizhub.com/Diz138/8ba924f9f568416d95fdbdc82e80e1f8))
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following questions drove the visualization and interaction decisions for this project:
 
  * Which Premier League teams overperformed or underperformed during the 2021-2022 season?
  * During which periods did teams overperform or underperform?
  * What patterns do different teams have in terms of performance?
- * Does the final PL table represent the best teams according to xP?
-
-
-## Open Questions
-
-I also want to include an animation of each team and their table position over each Matchweek. This would be an entirely different plot, but using the same data. I do not know if I have time for this. In my schedule I am putting time to it, but I do not really have an estimate as to how hard creating my first viz will be so I am trying to be optimistic.
 
 ## Future Work
