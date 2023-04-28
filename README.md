@@ -24,7 +24,7 @@ The issue with this dropdown is that it causes sizing errors when clicked (more 
 [![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png)](https://vizhub.com/Diz138/db634275642f4c4d9498ac4f9780e5a8)<br />
 This was one of my last iterations before my final visualization. I liked the look, but it was targeted only at viewers who understand the Premier League. I knew I needed to change this for my last visualization.
 ## Final Visualization
-[<img src="[img/myImage.png](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/finalviz.png)">](https://vizhub.com/Diz138/8ba924f9f568416d95fdbdc82e80e1f8)<br />
+[![image]([https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/LineChartwithLogos.png](https://vizhub.com/Diz138/8ba924f9f568416d95fdbdc82e80e1f8)<br />
 My final visualization offers a lot of user-friendly information. First, a legend differentiates the two lines in the chart. An interactive legend is available to the right of the chart. The legend includes every team in this data set in order of where they finished in the 2021-2022 Premier League Table. When hovered over, the team name and logo will be emphasized. A black box is put around whatever team is being shown. Also, the colors used for the line chart title and line of points corresponds to the given team.
 ## Questions & Tasks
 
