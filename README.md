@@ -35,4 +35,5 @@ The following questions drove the visualization and interaction decisions for th
  * What patterns do different teams have in terms of performance?
 
 ## Future Work
-[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/finalEnglandMap.png)]([(https://vizhub.com/Diz138/1c8820a5828f4107a59b0ae14760f93a)](https://vizhub.com/Diz138/1c8820a5828f4107a59b0ae14760f93a))<br />
+[![image](https://github.com/Diz138/PL-2021-2022-xPvsPoints/blob/master/images/finalEnglandMap.png)]([(https://vizhub.com/Diz138/1c8820a5828f4107a59b0ae14760f93a)])<br />
+In the future, I am hoping to incorporate this map of England into my visualization somehow. I think it could be a cool introduction page to this visualization. However, I did not have time to implement it in this project.
